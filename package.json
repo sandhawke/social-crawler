@@ -1,6 +1,6 @@
 {
   "name": "social-crawler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get all your posts, your friends posts, etc",
   "main": "index.js",
   "scripts": {
