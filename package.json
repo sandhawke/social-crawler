@@ -1,0 +1,19 @@
+{
+  "name": "social-crawler",
+  "version": "0.0.1",
+  "description": "Get all your posts, your friends posts, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tap --cov test*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandhawke/social-crawler.git"
+  },
+  "author": "Sandro Hawke (http://hawke.org/sandro)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sandhawke/social-crawler/issues"
+  },
+  "homepage": "https://github.com/sandhawke/social-crawler#readme"
+}
